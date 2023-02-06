@@ -1,0 +1,26 @@
+@page{
+    margin: 1in;
+}
+
+hr.topLine{
+    border-top: 1px solid black;
+}
+.midBold{
+    text-align: center;
+    font-weight: bold;
+}
+.bold{
+    font-weight: bold;
+}
+.Italic{
+    font-style: italic;
+}
+.boldItalic{
+    font-style: italic;
+    font-weight: bold;
+}
+*{
+    margin-left: 1in;
+    margin-right: 1in;
+}
+
